@@ -1,1 +1,1 @@
-web: gunicorn notes.wsgi
+web: gunicorn gentifit2024notes
